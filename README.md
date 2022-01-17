@@ -1,6 +1,6 @@
 # Data Science Portfolio of Wim Janssen
 
-## Churn Prediction
+## [Churn Prediction](https://github.com/WimHPJanssen/Churn-Prediction/blob/main/Churn%20Prediction.ipynb)
 
 *Description:* In this project I use predictive analytics to see whether two proposed email strategies are effective regarding customer retainment for Telco (a provider of telecommunication services). In order to obtain the best model for both of the business problems, I perform thresholding by exploiting the precision-recall trade-off. It appears that for the two problems the selection of the algorithm does not seem to matter much. However, the selection of the classification thresholds is very important. <BR>
 *Language:* Python <BR>
