@@ -14,6 +14,9 @@
 * Thresholding
 * Precision-recall plots
 
+![](https://github.com/WimHPJanssen/portfolio/blob/main/images/precisionrecall.png)
+
+    
 
 ## [Classifying Fake News Articles](https://github.com/WimHPJanssen/Classifying-Fake-News-Articles/blob/main/Classifying%20Fake%20News%20Articles.ipynb)
 
@@ -32,6 +35,7 @@
 * BERT sentence embeddings
 
 
+    
 ## [Soccer Player Position Prediction](https://github.com/WimHPJanssen/Soccer-Player-Position-Prediction/blob/main/Soccer%20Player%20Position%20Prediction.ipynb)
 
 ***Description:*** In this project I use FIFA 2019 player attribute ratings to predict the best position of players. In order to achieve a better prediction model, I explore the deletion of anomalies before training the model. I use several anomaly detection methods, such as DBSCAN, PCA and its reconstruction errors, Isolation Forest, Minimum Covariance Determinant, and Local Outlier Factor. However, outlier deletion doesn't increase model performance that much. <BR>
@@ -43,7 +47,10 @@
 * Data visualizations
 * Anomaly detection
 
-
+![](https://github.com/WimHPJanssen/portfolio/blob/main/images/pca.png)
+    
+    
+    
 ## [Building Kaggle Database and Queries](https://github.com/WimHPJanssen/Building-Kaggle-Database-and-Queries/blob/main/Building%20Kaggle%20Database%20and%20Queries.ipynb)
 
 ***Description:*** I build a relational database and some queries on Kaggle metadata (data on users, competitions, datasets, forums etc.). <BR>
@@ -55,6 +62,7 @@
 * Using SQLAlchemy for select queries
 * Using SQL for select queries
 
+    
 
 ## [Political Spending by Scientists](https://github.com/WimHPJanssen/Political-Spending-by-Scientists/blob/main/Political-Spending-by-Scientists.md)
 
@@ -66,6 +74,9 @@
 * Descriptive analytics
 * Data visualizations
 
+![](https://github.com/WimHPJanssen/portfolio/blob/main/images/politicalspending2.png)
+    
+    
     
 ## [Traffic Sign Classification](https://github.com/WimHPJanssen/Traffic-Sign-Classification/blob/main/Traffic%20Sign%20Classification.ipynb)
     
@@ -78,3 +89,6 @@
 * Convolutional neural network
 * Learning curves
 * Saliency maps
+
+![](https://github.com/WimHPJanssen/portfolio/blob/main/images/learningcurves.png)
+    
