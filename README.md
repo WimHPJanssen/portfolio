@@ -14,7 +14,7 @@
 * Thresholding
 * Precision-recall plots
 
-![](https://github.com/WimHPJanssen/portfolio/blob/main/images/precisionrecall.png)
+![](/images/precisionrecall.png)
 
     
 
@@ -47,7 +47,7 @@
 * Data visualizations
 * Anomaly detection
 
-![](https://github.com/WimHPJanssen/portfolio/blob/main/images/pca.png)
+![](/images/pca.png)
     
     
     
@@ -74,7 +74,7 @@
 * Descriptive analytics
 * Data visualizations
 
-![](https://github.com/WimHPJanssen/portfolio/blob/main/images/politicalspending2.png)
+![](/images/politicalspending2.png)
     
     
     
@@ -90,5 +90,5 @@
 * Learning curves
 * Saliency maps
 
-![](https://github.com/WimHPJanssen/portfolio/blob/main/images/learningcurves.png)
+![](/images/learningcurves.png)
     
