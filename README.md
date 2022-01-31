@@ -1,3 +1,5 @@
+**Welcome to my portfolio website! Please find below a selection of my private projects.**
+
 
 
 ## [Churn Prediction](https://github.com/WimHPJanssen/Churn-Prediction/blob/main/Churn%20Prediction.ipynb)
